@@ -1,4 +1,4 @@
-## Olá👋! Eu sou o Patrick de Bona, estudante de Ciência da Computação!
+## Olá!👋 Eu sou o Patrick de Bona, estudante de Ciência da Computação!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickdeBona&layout=compact)](https://github.com/PatrickdeBona/github-readme-stats)
 
