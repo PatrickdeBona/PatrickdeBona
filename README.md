@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickdeBona&layout=compact)](https://github.com/PatrickdeBona/github-readme-stats)
 
 ### 👨‍💻 Tempo programando:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=patrickdebona)](https://github.com/patrickdebona/github-readme-stats)
+[![Patrick's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=patrickdebona)](https://github.com/patrickdebona/github-readme-stats)
 ### 💻Tecnologias que uso:
 <div style = "display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
